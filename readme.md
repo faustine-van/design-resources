@@ -34,6 +34,7 @@
 - [Image Compression](#image-compression)
 - [Chrome Extensions](#chrome-extensions)
 - [Others](#others)
+- [Added](#added)
 
 ## UI Graphics
 
@@ -1221,6 +1222,10 @@
 | [SmallDev.tools](https://SmallDev.tools/) | Free tool for developers to help with Beautify & Minify HTML/CSS/Javascript, and many other handy tools. With a delightful interface. |
 | [Angry Tools](https://angrytools.com/) | Free web tools for speed up your development. |
 | [Rapid API](https://rapidapi.com/hub) | Discover and connect to thousands of APIs. |
+
+## Added
+| [Logo Mockup Generator]([https://angrytools.com/](https://www.logoai.com/design/mockup)) | Free web tools for speed up your development. |
+| [FAVICON Converter](https://favicon.io/favicon-converter/) | Generate your favicon from an image by uploading your image. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
