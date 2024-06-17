@@ -1224,6 +1224,11 @@
 | [Rapid API](https://rapidapi.com/hub) | Discover and connect to thousands of APIs. |
 
 ## Added
+
+>Added
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Logo Mockup Generator]([https://angrytools.com/](https://www.logoai.com/design/mockup)) | Free web tools for speed up your development. |
 | [FAVICON Converter](https://favicon.io/favicon-converter/) | Generate your favicon from an image by uploading your image. |
 | [Box Shadows-customize shadows](https://box-shadow.dev/) |  tool for generating CSS box-shadow properties. |
